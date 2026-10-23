@@ -1,0 +1,9 @@
+.venv/
+.venv314/
+__pycache__/
+build/
+output/
+*.spec
+*.pyc
+.workbuddy
+

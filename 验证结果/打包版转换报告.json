@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "format": "XML / 内嵌 JSON",
+  "encoding": "utf-8",
+  "steps": [
+    "解析 XML 外壳（2 段）并解码实体",
+    "解析标准 JSON",
+    "解析标准 JSON"
+  ],
+  "warnings": []
+}

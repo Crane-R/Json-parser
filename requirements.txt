@@ -1,0 +1,9 @@
+json-repair==0.64.0
+json5==0.17.3
+PyYAML==6.0.3
+defusedxml==0.7.1
+charset-normalizer==3.5.2
+tkinterdnd2==0.6.4
+# 仅开发 / 打包期使用
+pyinstaller==6.22.3
+Pillow==12.3.0

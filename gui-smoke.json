@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "frozen": false,
+  "gui": true,
+  "drag_drop": "2.10.3",
+  "parser": "XML / 内嵌 JSON",
+  "clipboard": true,
+  "search": true,
+  "stale_result_cleared": true,
+  "clear_empty_input": true,
+  "background_parse": true,
+  "discard_stale_background_result": true,
+  "tree_pagination": true
+}
